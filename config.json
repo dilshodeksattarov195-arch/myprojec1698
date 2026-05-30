@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configfave",
+        "uuid": 8053614,
+        "checksum": "le9d4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
